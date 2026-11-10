@@ -1,0 +1,1 @@
+Bu proje, **Python** ve **OpenCV** kütüphanesi kullanılarak web kamerası (veya video kaynağı) üzerinden gerçek zamanlı olarak mavi renkteki nesneleri tespit eden, takip eden ve tespit edilen nesnelerin merkez noktaları arasına çizgiler çeken bir bilgisayarlı görü (computer vision) uygulamasıdır.
